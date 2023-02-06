@@ -4,3 +4,6 @@
 [submodule "tinyengine-codegen"]
 	path = tinyengine-codegen
 	url = git@github.com:zhaolanhuang/tinyengine-codegen.git
+[submodule "LeNet5-MNIST-PyTorch"]
+	path = LeNet5-MNIST-PyTorch
+	url = git@github.com:zhaolanhuang/LeNet5-MNIST-PyTorch.git
