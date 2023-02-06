@@ -1,0 +1,6 @@
+[submodule "tinyengine-core"]
+	path = tinyengine-core
+	url = git@github.com:zhaolanhuang/tinyengine-core.git
+[submodule "tinyengine-codegen"]
+	path = tinyengine-codegen
+	url = git@github.com:zhaolanhuang/tinyengine-codegen.git
