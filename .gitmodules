@@ -2,7 +2,7 @@
 	path = tinyengine-core
 	url = git@github.com:zhaolanhuang/tinyengine-core.git
 [submodule "tinyengine-codegen"]
-	path = tinyengine-codegen
+	path = tinyengine_codegen
 	url = git@github.com:zhaolanhuang/tinyengine-codegen.git
 [submodule "LeNet5-MNIST-PyTorch"]
 	path = LeNet5-MNIST-PyTorch
